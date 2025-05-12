@@ -24,6 +24,6 @@ cur.execute("drop table if exists office")
 # cur.execute("delete from customers where id = 4")
 # myconn.commit()
 
-
+print("hello")
 
 
